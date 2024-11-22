@@ -22,3 +22,6 @@ EDA is a crucial step in understanding the underlying characteristics and patter
 step 5: Visuvalize the graphs to display the plot based on understanding of online purchase based on gender wise.
 What Influence Respondents Using Online Food Delivery?
 calculate the total number on concellation order/missing items/order placed by mistake?
+
+![image](https://github.com/user-attachments/assets/bc4391e7-978a-4a2b-971d-256595cdb8d0)
+
