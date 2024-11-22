@@ -2,7 +2,6 @@
 
 The explaing the Exploratory DATA analysis based on food delivery datasets.
 
-![image](https://github.com/user-attachments/assets/89154485-41fd-4d9c-adc6-32195f04cc07)
 
 
 ## Overview of the Food Delivery Dataset
