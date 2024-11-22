@@ -1,4 +1,4 @@
-# EDA-based-Food delivery alalysis
+# EDA based Food delivery analysis
 
 The explaing the DATA analysis based on food delivery datasets.
 
