@@ -1,6 +1,6 @@
 # EDA based Food delivery analysis
 
-The explaing the DATA analysis based on food delivery datasets.
+The explaing the Exploratory DATA analysis based on food delivery datasets.
 
 ## Overview of the Food Delivery Dataset
 Food delivery datasets are comprehensive and include a variety of information crucial for understanding the dynamics of food delivery services. The dataset includes various columns related to the food delivery process.
