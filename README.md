@@ -2,6 +2,9 @@
 
 The explaing the Exploratory DATA analysis based on food delivery datasets.
 
+![image](https://github.com/user-attachments/assets/89154485-41fd-4d9c-adc6-32195f04cc07)
+
+
 ## Overview of the Food Delivery Dataset
 Food delivery datasets are comprehensive and include a variety of information crucial for understanding the dynamics of food delivery services. The dataset includes various columns related to the food delivery process.
 
@@ -28,4 +31,10 @@ What Influence Respondents Using Online Food Delivery?
 calculate the total number on concellation order/missing items/order placed by mistake?
 
 ![image](https://github.com/user-attachments/assets/bc4391e7-978a-4a2b-971d-256595cdb8d0)
+
+
+
+# Actionable Data-Driven Solutions
+Keep improving the service so it's more ease and more convenient to increase the customer
+Maximize speed in food delivery, because many customers still using online food delivery because they think it is Time-saving, and many customers are employees so they don't have much time during break
 
